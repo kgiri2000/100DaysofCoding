@@ -1,3 +1,7 @@
+"""
+Kamal Girl
+100 Days of Coding Python
+"""
 # Coffee Machine
 # Print the report
 # Check resources sufficient
