@@ -1,0 +1,13 @@
+Need:
+    - Procedure programming are hard to track when the size/complexity/relation of the program increases
+    - Need to make scalable
+
+Example:
+Restaurant:
+    Class:
+    Waiter Class:
+        - attributes : is_holding_plate =  False, tables_responsible = [2,3,4]
+        - methods: take_order(), update_money()
+        Object:
+            - Henry
+            - James
